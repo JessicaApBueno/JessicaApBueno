@@ -29,8 +29,6 @@
 <img align="center" alt="SalesForce" height="40" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
 
 </div>
-  
 
 
 
-![Snake animation](https://github.com/JessicaApBueno/JessicaApBueno/blob/output/github-contribution-grid-snake.svg)
