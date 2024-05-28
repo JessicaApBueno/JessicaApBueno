@@ -6,7 +6,7 @@
   
 ### About Me
 
-🧑‍🦳 Eu sou a Jessica, tenho 34 anos, moro na cidade de Cotia.
+🧑‍🦳 Eu sou a Jessica, tenho 34 anos, moro na cidade de Cotia/SP - Brasil.
 <br>
 
 💻 Estou migrando para a área de TI, quero ser desenvolvedora Front-End.
