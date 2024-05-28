@@ -1,4 +1,6 @@
-## Hi! I am Jessica Bueno 👋
+ 
+ ## 👋 Hi! I am Jessica Bueno.
+
 
 <div align="center">
   <img height="400em" src="https://img.freepik.com/fotos-gratis/personagem-de-desenho-animado-em-3d_23-2151033971.jpg?t=st=1716857445~exp=1716861045~hmac=1b14986699ee8e7bd148de5b122da9bc413d047a72bfbf4ad6a3a23b65794fae&w=740" />
