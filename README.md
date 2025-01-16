@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img height="400em" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Default_3D_avatar_of_a_programmer_girl_with_short_platinum_hai_3.jpg" />
+  <img height="400em" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/octocat-1737055773569.png" />
  </div>
   
 ### About Me
