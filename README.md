@@ -29,6 +29,8 @@
 <img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
 <img align="center" alt="SalesForce" height="40" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
+<img align="center" alt="AWS" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/aws.jpg" />
+<img align="center" alt="GCP" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/GCP.jpg" />
 
 </div>
 <br>
