@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=120&section=header"/>
+<img width=100% src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Leonardo_Phoenix_10_Create_a_futuristic_cover_art_featuring_a_2.jpg"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF47FE&center=true&vCenter=true&random=true&width=435&lines=Hello!+My+name+is+Jessica+Bueno.;I'm+34+years+old.;I+from+S%C3%A3o+Paulo%2C+BR.;Be+Welcome+%F0%9F%A5%B0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EBDFFC8&center=true&vCenter=true&random=true&width=435&lines=Hello!+My+name+is+Jessica+Bueno.;I'm+34+years+old.;I+from+S%C3%A3o+Paulo%2C+BR.;Be+Welcome+%F0%9F%A5%B0" alt="Typing SVG" /></a>
  
- ## 👋 Hi! I am Jessica Bueno.
+ ## 👋 Hi!
 
 
 <div align="center">
@@ -47,4 +47,4 @@
 
 <img src="https://raw.github.com/githubusercontent.com/JessicaApBueno/JessicaApBueno/output/github-contribution-grid-snake.svg" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff006f&height=120&section=footer"/>
+
