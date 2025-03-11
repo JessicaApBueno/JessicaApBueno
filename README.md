@@ -27,14 +27,19 @@
 <img align="center" alt="Git" height="40" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 <img align="center" alt="GitHub" height="40" width="50" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" />
 <img align="center" alt="AWS" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/aws.jpg" />
-<img align="center" alt="GCP" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/GCP.jpg" />
+<img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
 <img align="center" alt="HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
 <img align="center" alt="CSS" height="40" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
 <img align="center" alt="JS" height="40" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
 <img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
-<img align="center" alt="SalesForce" height="40" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
+<img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+<img  align="center" alt="SalesForce" height="40" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
+<img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<div align="left">
 
+
+###
 
 </div>
 <br>
@@ -47,4 +52,6 @@
 
 <img align="left" alt="assinatura" height="200" width="250" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/JB%20(8).png" />
 
+
+###
 
