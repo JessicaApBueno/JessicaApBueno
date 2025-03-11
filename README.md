@@ -1,4 +1,4 @@
-<img width=100% src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Leonardo_Phoenix_10_Create_a_futuristic_cover_art_featuring_a_2.jpg"/>
+<img width=100% height="350px" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Leonardo_Phoenix_10_Create_a_futuristic_cover_art_featuring_a_2.jpg"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=6ACDCA&center=true&vCenter=true&width=435&lines=Hello!;My+name+is...;Jessica+Bueno.;Be+Welcome+%F0%9F%A5%B0" alt="Typing SVG" /></a>
 
