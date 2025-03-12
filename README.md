@@ -1,6 +1,6 @@
-<img width=100% height="350px" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Leonardo_Phoenix_10_Create_a_futuristic_cover_art_featuring_a_2.jpg"/>
+<img width=100% height="350px" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Pink%20%26%20Brown%20Illustration%20Personal%20LinkedIn%20Banner.png"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=3000&pause=0000&color=6ACDCA&width=435&lines=Hello!;Be+Welcome+%E2%9D%A4%EF%B8%8F" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Imperial+Script&size=100&duration=3000&pause=0000&color=C097C0&width=600&height=200&lines=Hello!!!;Be+Welcome+%E2%9D%A4%EF%B8%8F" /></a>
 
 
 <h3 align="left"> 👋 Hi! Eu sou a Jessica, tenho 35 anos, moro na cidade de Cotia/SP - Brasil.</h3>
@@ -73,9 +73,5 @@
 
 
 ###
-</div>
-<div align=center>
- <div align="center">
-  <img width="200px" height="130px" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/JB%20(8).png" />
- </div>
+
 
