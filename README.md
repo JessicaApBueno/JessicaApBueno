@@ -70,8 +70,9 @@
   <div align="center">
   <img src="https://profile-counter.glitch.me/JessicaApBueno/count.svg?"  />
 </div>
+<div align="center">
+<img height="300" width="350" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/image_CapCut%20Commerce%20Pro_202503120835.png"/>
+</div>
 
-
-###
 
 
