@@ -1,4 +1,4 @@
-<img width=100% height="350px" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Pink%20%26%20Brown%20Illustration%20Personal%20LinkedIn%20Banner%20(7).png"/>
+<img width=100% height="50%" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Pink%20%26%20Brown%20Illustration%20Personal%20LinkedIn%20Banner%20(7).png"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Imperial+Script&size=100&duration=3000&pause=0000&color=C097C0&width=600&height=200&lines=Hello!!!;Be+Welcome+%E2%9D%A4%EF%B8%8F" /></a>
 
