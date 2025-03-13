@@ -49,7 +49,12 @@
 <div align="left">
 
 
-###
+### Badges:
+
+<div style="display: inline_block" align="center"><br>
+
+<a href="https://www.credly.com/badges/c7733741-86c8-4cd5-8b29-dd983fa04072/linked_in_profile"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" /></a>
+<a href="https://www.credly.com/badges/296c9b48-0f91-48bc-a37f-eab25362229a"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" /></a>
 
 
 ###
