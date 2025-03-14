@@ -1,0 +1,18 @@
+name: Pacman  
+on:  
+  schedule:  
+    - cron: "* * * * *" # Executa a cada minuto  
+jobs:  
+  pacman:  
+    runs-on: ubuntu-latest  
+    steps:  
+      - name: 'Pacman Contributions'  
+        run: |  
+          if [[ $(date '+%H') -eq 12 ]]; then  
+            echo "Pacman!$(date '+%Y-%m-%d')" >> "README.md"  
+            git config --local user.email 'buenojessicaaparecida@gmail.com'  
+            git config --local user.name 'JessicaApBueno'  
+            git add README.md  
+            git commit -m "Pacman contributions"  
+            git push  
+          fi  
