@@ -83,8 +83,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JessicaApBueno/JessicaApBueno/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+<img src="https://raw.githubusercontent.com/JessicaApBueno/JessicaApBueno/output/pacman.yml/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
-
 
