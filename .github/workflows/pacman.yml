@@ -10,8 +10,8 @@ jobs:
         run: |  
           if [[ $(date '+%H') -eq 12 ]]; then  
             echo "Pacman!$(date '+%Y-%m-%d')" >> "README.md"  
-            git config --local user.email 'your_email@example.com'  
-            git config --local user.name 'your_username'  
+            git config --local user.email 'buenojessicaaparecida@gmail.com'  
+            git config --local user.name 'JessicaApBueno'  
             git add README.md  
             git commit -m "Pacman contributions"  
             git push  
