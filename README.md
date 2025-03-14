@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Imperial+Script&size=100&duration=3000&pause=0000&color=C097C0&width=600&height=200&lines=Hello!!!;Be+Welcome+%E2%9D%A4%EF%B8%8F" /></a>
 
 
-<h3 align="left"> 👋 Hi! Eu sou a Jessica, tenho 35 anos, moro na cidade de Cotia/SP - Brasil.</h3>
+<h3 align="left"> 👋 Hi! I'm Jessica, tenho 35 anos, moro na cidade de Cotia/SP - Brasil.</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JessicaApBueno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -38,6 +38,7 @@
 <img align="center" alt="JS" height="40" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
 <img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
+<img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
 <img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 <img  align="center" alt="SalesForce" height="40" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
 <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
