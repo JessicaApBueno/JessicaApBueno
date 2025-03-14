@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Imperial+Script&size=100&duration=3000&pause=0000&color=C097C0&width=600&height=200&lines=Hello!!!;Be+Welcome+%E2%9D%A4%EF%B8%8F" /></a>
 
 
-<h3 align="left"> 👋 Hi! I'm Jessica, tenho 35 anos, moro na cidade de Cotia/SP - Brasil.</h3>
+<h3 align="left"> 👋 Hi, I'm Jessica! I live in Cotia/SP  - Brasil.</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JessicaApBueno&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
