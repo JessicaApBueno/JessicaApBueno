@@ -40,6 +40,7 @@
 <img align="center" alt="HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
 <img align="center" alt="CSS" height="40" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
 <img align="center" alt="JS" height="40" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="50" alt="php logo"/>
 <img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
 <img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
@@ -51,9 +52,8 @@
 </div>
 
 ###
-<div align="left">
 
-
+###
 ### Badges:
 
 <div style="display: inline_block" align="center"><br>
