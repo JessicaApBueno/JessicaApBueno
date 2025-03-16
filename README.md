@@ -44,7 +44,7 @@
 <img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
 </div><br>
 
-### Programação 👩‍💻
+### Programação </>
 
 <div style="display: inline_block" align="left">
 <img align="center" alt="HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" />
@@ -54,27 +54,40 @@
 <img align="center" alt="Python" height="40" width="50" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" height="40" alt="python logo"  />
 </div><br>
 
+### IDEs </>
+
+<div style="display: inline_block" align="left">
+<img align="center" alt="VSCode" height="40" width="50" src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" height="40" alt="vscode logo"  />
+<img align="center" alt="VSCode" height="40" width="50" src="https://img.icons8.com/?size=100&id=HeYO04zXqCbr&format=png&color=000000" height="40" alt="Apache NetBeans"  />
+</div><br>
+
 ### Banco de Dados 🎲
 
 <div style="display: inline_block" align="left">
 <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div><br>
 
-###  CRM Admin👨🏼‍💻
-<div style="display: inline_block" align="left">
-<img  align="center" alt="SalesForce" height="50" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
-</div><br>
-
-
-### Ferramentas 🧰
-
+### Design 🎨
 <div style="display: inline_block" align="left">
 <img align="center" alt="Canva" height="40" width="50" src="https://img.icons8.com/?size=100&id=me9baOv8L5z9&format=png&color=000000" ;>
 <img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8EbY3Bnfw0aL&format=png&color=000000" />
+</div><br>
+
+### Projects 📈
+
+<div style="display: inline_block" align="left">
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
 <img align="center" alt="Trello" height="40" width="50" src="https://img.icons8.com/?size=100&id=vrmg1S9Hfbiv&format=png&color=000000" height="40" alt="trello logo"  />
-<img align="center" alt="VSCode" height="40" width="50" src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" height="40" alt="vscode logo"  />
+<img align="center" alt="Miro" height="40" width="50" src="https://img.icons8.com/?size=100&id=MU45yL8cD9cF&format=png&color=000000" />
+<img align="center" alt="Jira" height="40" width="50" src="https://img.icons8.com/?size=100&id=6aZUcUt6WjzU&format=png&color=000000" height="40" alt="vscode logo"  />
+</div><br>
+
+###  Diagram 🔀
 <img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
+
+###  CRM Admin 👨🏼‍💻
+<div style="display: inline_block" align="left">
+<img  align="center" alt="SalesForce" height="50" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
 </div><br>
 
 ###
