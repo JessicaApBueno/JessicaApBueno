@@ -41,7 +41,8 @@
 
 <div style="display: inline_block" align="left">
 <img align="center" alt="AWS" height="40" width="50" src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" />
-<img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+<img align="center" width="48" height="48" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/icons8-google-cloud-48.png" alt="google-cloud"/>
+  
 </div><br>
 
 ### Programação </>
