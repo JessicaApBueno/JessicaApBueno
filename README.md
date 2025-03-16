@@ -33,25 +33,25 @@
 ### Versionamento e Hospedagem de Código 🗂️
 
 <div style="display: inline_block" align="left">
-<img align="center" alt="Git" height="40" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
+<img align="center" alt="Git" height="40" width="50" src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" />
 <img align="center" alt="GitHub" height="40" width="50" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" />
 </div><br>
 
 ### Cloud Computing ☁️
 
 <div style="display: inline_block" align="left">
-<img align="center" alt="AWS" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/aws.jpg" />
+<img align="center" alt="AWS" height="40" width="50" src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" />
 <img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
 </div><br>
 
 ### Programação 👩‍💻
 
 <div style="display: inline_block" align="left">
-<img align="center" alt="HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
-<img align="center" alt="CSS" height="40" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
-<img align="center" alt="JS" height="40" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="50" alt="php logo"/>
-<img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<img align="center" alt="HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" />
+<img align="center" alt="CSS" height="40" width="50" src="https://img.icons8.com/?size=100&id=5cVdiiKKi0vX&format=png&color=000000" />
+<img align="center" alt="JS" height="40" width="50" src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" />
+<img align="center" src="https://img.icons8.com/?size=100&id=UGYn5TapNioV&format=png&color=000000" height="40" width="50" alt="php logo"/>
+<img align="center" alt="Python" height="40" width="50" src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" height="40" alt="python logo"  />
 </div><br>
 
 ### Banco de Dados 🎲
@@ -69,12 +69,12 @@
 ### Ferramentas 🧰
 
 <div style="display: inline_block" align="left">
-<img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=me9baOv8L5z9&format=png&color=000000" ;>
-<img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
+<img align="center" alt="Canva" height="40" width="50" src="https://img.icons8.com/?size=100&id=me9baOv8L5z9&format=png&color=000000" ;>
+<img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8EbY3Bnfw0aL&format=png&color=000000" />
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
+<img align="center" alt="Trello" height="40" width="50" src="https://img.icons8.com/?size=100&id=vrmg1S9Hfbiv&format=png&color=000000" height="40" alt="trello logo"  />
+<img align="center" alt="VSCode" height="40" width="50" src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" height="40" alt="vscode logo"  />
 <img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
-<img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-<img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div><br>
 
 ###
@@ -95,8 +95,9 @@
 
 
 <div  align="left">
- <a href = "mailto:buenojessicaaparecida@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" ></a>
-  <a href="https://www.linkedin.com/in/jessica-ap-bueno/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" ></a> 
+ <a href = "mailto:buenojessicaaparecida@gmail.com"><img src="https://img.icons8.com/?size=100&id=l8GURTKU12XE&format=png&color=000000g" width="52" height="52" alt="gmail logo" ></a>
+  <a href="https://www.linkedin.com/in/jessica-ap-bueno/" target="_blank"><img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="52" height="52" alt="linkedin logo" ></a> 
+ <a href="https://www.instagram.com/jessicabueno697/" target="_blank"><img src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" width="52" height="52" alt="linkedin logo" ></a> 
  
 </div>
 
