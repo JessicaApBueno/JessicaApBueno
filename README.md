@@ -30,33 +30,57 @@
 </div>
  </div>
 
-### Hard Skills
+### Versionamento e Hospedagem de Código 🗂️
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
 <img align="center" alt="Git" height="40" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 <img align="center" alt="GitHub" height="40" width="50" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" />
+</div>
+
+### Cloud Computing ☁️
+
+<div style="display: inline_block" align="left"><br>
 <img align="center" alt="AWS" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/aws.jpg" />
 <img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
+</div>
+
+### Programação 👩‍💻
+
+<div style="display: inline_block" align="left"><br>
 <img align="center" alt="HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
 <img align="center" alt="CSS" height="40" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
 <img align="center" alt="JS" height="40" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="50" alt="php logo"/>
+<img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+### Banco de Dados 🎲
+
+<div style="display: inline_block" align="left"><br>
+<img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+### Ferramentas 🧰
+
+<div style="display: inline_block" align="left"><br>
 <img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
 <img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
 <img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-<img  align="center" alt="SalesForce" height="40" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
 <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-<img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-<img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
+
+###  CRM Admin👨🏼‍💻
+<div style="display: inline_block" align="left"><br>
+<img  align="center" alt="SalesForce" height="50" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
+</div><be>
 
 ###
 
 ###
 ### Badges:
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="left"><br>
 
 <a href="https://www.credly.com/badges/c7733741-86c8-4cd5-8b29-dd983fa04072/linked_in_profile"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" /></a>
 <a href="https://www.credly.com/badges/296c9b48-0f91-48bc-a37f-eab25362229a"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" /></a>
@@ -68,7 +92,7 @@
 ### Contact
 
 
-<div  align="center">
+<div  align="left">
  <a href = "mailto:buenojessicaaparecida@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" ></a>
   <a href="https://www.linkedin.com/in/jessica-ap-bueno/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" ></a> 
  
