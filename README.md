@@ -32,48 +32,48 @@
 
 ### Versionamento e Hospedagem de Código 🗂️
 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
 <img align="center" alt="Git" height="40" width="50" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" />
 <img align="center" alt="GitHub" height="40" width="50" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" />
-</div>
+</div><br>
 
 ### Cloud Computing ☁️
 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
 <img align="center" alt="AWS" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/aws.jpg" />
 <img align="center" alt="GCP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" />
-</div>
+</div><br>
 
 ### Programação 👩‍💻
 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
 <img align="center" alt="HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" />
 <img align="center" alt="CSS" height="40" width="50" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" />
 <img align="center" alt="JS" height="40" width="50" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="50" alt="php logo"/>
 <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+</div><br>
 
 ### Banco de Dados 🎲
 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
 <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+</div><br>
 
 ### Ferramentas 🧰
 
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
 <img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
 <img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
 <img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+</div><br>
 
 ###  CRM Admin👨🏼‍💻
-<div style="display: inline_block" align="left"><br>
+<div style="display: inline_block" align="left">
 <img  align="center" alt="SalesForce" height="50" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
-</div><be>
+</div><br>
 
 ###
 
