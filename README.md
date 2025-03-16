@@ -30,7 +30,7 @@
 </div>
  </div>
 
-### Versionamento e Hospedagem de Código 🗂️
+### Versioning and code hosting 🗂️
 
 <div style="display: inline_block" align="left">
 <img align="center" alt="Git" height="40" width="50" src="https://img.icons8.com/?size=100&id=xBKl2pdJg5kk&format=png&color=000000" />
@@ -45,7 +45,7 @@
   
 </div><br>
 
-### Programação </>
+### Programming </>
 
 <div style="display: inline_block" align="left">
 <img align="center" alt="HTML" height="40" width="50" src="https://img.icons8.com/?size=100&id=CMVEhOBzk3Zp&format=png&color=000000" />
