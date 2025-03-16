@@ -60,19 +60,21 @@
 <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div><br>
 
+###  CRM Admin👨🏼‍💻
+<div style="display: inline_block" align="left">
+<img  align="center" alt="SalesForce" height="50" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
+</div><br>
+
+
 ### Ferramentas 🧰
 
 <div style="display: inline_block" align="left">
+<img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=me9baOv8L5z9&format=png&color=000000" ;>
 <img align="center" alt="Figma" height="40" width="50" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
 <img align="center" alt="Notion" height="40" width="50" src="https://img.icons8.com/?size=100&id=wue74HqaylSJ&format=png&color=000000" />
 <img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
 <img align="center" alt="Trello" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div><br>
-
-###  CRM Admin👨🏼‍💻
-<div style="display: inline_block" align="left">
-<img  align="center" alt="SalesForce" height="50" width="50" src="https://img.icons8.com/?size=100&id=38804&format=png&color=000000" />
 </div><br>
 
 ###
