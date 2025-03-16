@@ -1,6 +1,6 @@
-<img width=100% height="50%" src=""/>
+<img width=100% height="50%" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Pink%20%26%20Brown%20Illustration%20Personal%20LinkedIn%20Banner%20(13).png"/>
 
-<a href="https://git.io/typing-svg"><img src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/Pink%20%26%20Brown%20Illustration%20Personal%20LinkedIn%20Banner%20(12).png" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&size=100&duration=999&pause=1000&width=800&height=200&lines=Hello!;Be+Welcome+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
 
 <h3 align="left"> 👋 Hi, I'm Jessica! I live in Cotia/SP  - Brasil.</h3>
