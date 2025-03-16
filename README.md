@@ -58,8 +58,9 @@
 ### IDEs </>
 
 <div style="display: inline_block" align="left">
-<img align="center" alt="VSCode" height="40" width="50" src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" height="40" alt="vscode logo"  />
-<img align="center" alt="VSCode" height="40" width="50" src="https://img.icons8.com/?size=100&id=HeYO04zXqCbr&format=png&color=000000" height="40" alt="Apache NetBeans"  />
+<img align="center" alt="VSCode"  width="50" src="https://img.icons8.com/?size=100&id=XCNhMfBsqfX1&format=png&color=000000" height="40" alt="vscode logo"  />
+<img align="center"   width="50" src="https://img.icons8.com/?size=100&id=HeYO04zXqCbr&format=png&color=000000" height="40" alt="Apache NetBeans"  />
+<img align="center" alt="Jupyter" height="40" width="50" src="https://img.icons8.com/?size=100&id=5eYIaRsLauP9&format=png&color=000000" />
 </div><br>
 
 ### Design 🎨
