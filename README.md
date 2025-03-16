@@ -62,12 +62,6 @@
 <img align="center" alt="VSCode" height="40" width="50" src="https://img.icons8.com/?size=100&id=HeYO04zXqCbr&format=png&color=000000" height="40" alt="Apache NetBeans"  />
 </div><br>
 
-### Banco de Dados 🎲
-
-<div style="display: inline_block" align="left">
-<img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div><br>
-
 ### Design 🎨
 <div style="display: inline_block" align="left">
 <img align="center" alt="Canva" height="40" width="50" src="https://img.icons8.com/?size=100&id=me9baOv8L5z9&format=png&color=000000" ;>
@@ -85,6 +79,12 @@
 
 ###  Diagram 🔀
 <img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
+
+### Banco de Dados 🎲
+
+<div style="display: inline_block" align="left">
+<img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div><br>
 
 ###  CRM Admin 👨🏼‍💻
 <div style="display: inline_block" align="left">
