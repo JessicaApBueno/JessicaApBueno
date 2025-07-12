@@ -103,7 +103,7 @@
 ### Badges:
 
 <div style="display: inline_block" align="left"><br>
-<a href="https://www.credly.com/badges/934d858c-490d-4419-9f7b-24b988b233c2/public_url"> <<img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
+<a href="https://www.credly.com/badges/934d858c-490d-4419-9f7b-24b988b233c2/public_url"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
 <a href="https://www.credly.com/badges/411c9b65-a490-4de6-86af-507953b271e5/public_url"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" /></a>
 <a href="https://www.credly.com/badges/296c9b48-0f91-48bc-a37f-eab25362229a"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" /></a>
 
