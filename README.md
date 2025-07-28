@@ -99,15 +99,15 @@
 <img align="center" alt="Jira" height="40" width="50" src="https://img.icons8.com/?size=100&id=6aZUcUt6WjzU&format=png&color=000000" height="40" alt="vscode logo"  />
 </div><br>
 
+### Data analysis and visualization 📈
+<div style="display: inline_block" align="left">
+<img align="center" width="40" height="50" alt="iLooker" src="https://github.com/user-attachments/assets/aea6541a-ab2e-40b0-a1a9-4322ebea5430" />
+</div><br>
+
+
 ###  Diagram 🔀
 <img align="center" alt="Draw.io" height="40" width="50" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/draw-io.svg" />
 
-
-
-### Data analysis and visualization 📈
-<div style="display: inline_block" align="left">
-<img  align="center" alt="Looker" height="50" width="50" src="https://img.icons8.com/?size=100&id=SruJhzn0nnLl&format=png&color=000000" />
-</div><br>
 
 ###  CRM Admin 👨🏼‍💻
 <div style="display: inline_block" align="left">
