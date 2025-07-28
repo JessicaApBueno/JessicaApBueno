@@ -1,12 +1,10 @@
 
 <img width=100% height="50%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8E37A6" />
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&size=100&duration=999&pause=1000&width=900&height=150&lines=Hello!;Be+Welcome+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 
 <img align="center" width=100% height="50%" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/github-header-image.png">
-
-
-<h3 align="left"> 👋 I live in Cotia/SP  - Brasil.</h3>
 
 <br clear="both">
 
@@ -18,10 +16,9 @@
 ###
 
 <div>
-<div align="center">
-  <img height="150em" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/octocat-1737055773569.png" />
- </div>
- <div>
+
+  [![JessicaApBueno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JessicaApBueno&bg_color=0d1117&color=9305F2&line=9305F2&point=9305F2&area=true&area_color=9305F2&hide_border=true)](https://github.com//JessicaApBuen)
+
   
 ### About Me
 💻 Estou migrando para a área de TI, quero ser desenvolvedora Front-End.
@@ -40,6 +37,9 @@
 <a href="https://www.credly.com/badges/296c9b48-0f91-48bc-a37f-eab25362229a"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" /></a>
 
 </div><br>
+<p> View all my badges in Creadly:</p>
+<a href="https://www.credly.com/users/jessica-aparecida-bueno/badges#credly"><img width="50" height="50" alt="Credly" src="https://github.com/user-attachments/assets/f6648491-645e-433e-89dc-072724d475bb" /></a>
+
 
 ### Cloud Computing ☁️
 
