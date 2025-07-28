@@ -37,7 +37,7 @@
 <a href="https://www.credly.com/badges/296c9b48-0f91-48bc-a37f-eab25362229a"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" /></a>
 
 </div><br>
-<p> View all my badges in Creadly:</p>
+<p> View all my badges in Credly:</p>
 <a href="https://www.credly.com/users/jessica-aparecida-bueno/badges#credly"><img width="50" height="50" alt="Credly" src="https://github.com/user-attachments/assets/f6648491-645e-433e-89dc-072724d475bb" /></a>
 
 
