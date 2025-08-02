@@ -1,8 +1,9 @@
 
 <img width=100% height="50%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8E37A6" />
 
-
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kalnia+Glaze&size=100&duration=999&pause=1000&width=900&height=150&lines=Hello!;Be+Welcome+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+</div>
 
 <img align="center" width=100% height="50%" src="https://github.com/JessicaApBueno/JessicaApBueno/blob/main/github-header-image.png">
 
