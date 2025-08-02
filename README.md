@@ -8,14 +8,12 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JessicaApBueno&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JessicaApBueno&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div>
+ <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JessicaApBueno&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&bg_color=151340&text_color=B1AABF&line_height=40" alt="stats graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaApBueno&bg_color=151340&text_color=B1AABF" height="285" width="400" alt="top langs graph" />
+</div>
 
   [![JessicaApBueno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JessicaApBueno&bg_color=0d1117&color=9305F2&line=9305F2&point=9305F2&area=true&area_color=9305F2&hide_border=true)](https://github.com//JessicaApBuen)
 
@@ -31,6 +29,8 @@
    Sou apaixonada por Cloud Computing, tenho a certificação Cloud Practitioner da AWS e Cloud Foudations do Google Cloud.
   
  </p>
+
+
 </div>
 
 <h2 align="center"> Badges 🛡 </h2>
