@@ -11,7 +11,7 @@
 
 <div>
  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JessicaApBueno&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1&bg_color=151340&text_color=B1AABF&line_height=40" alt="stats graph" />
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaApBueno&bg_color=151340&text_color=B1AABF" height="285" width="400" alt="top langs graph" />
 </div>
