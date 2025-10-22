@@ -13,7 +13,7 @@ Minha paixão é criar, automatizar e otimizar infraestruturas escaláveis e res
   </p>
 </h4>
 
-* 🔭 Atualmente estou estudando para a AWS Certified Solutions Architect — Associate e a para a Cloud Engineer Associate do GCP
+* 🔭 Atualmente estou estudando para a AWS Certified Solutions Architect — Associate e a Cloud Engineer Associate do GCP
 * 🌱 Aprendendo mais sobre Linux, Python, Docker, Kubernets, Terraform, Ansible e CI/CD.
 * 💬 Fique à vontade para me contatar sobre oportunidades ou para trocar ideias sobre Cloud e DevOps!
 
