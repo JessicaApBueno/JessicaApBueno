@@ -27,7 +27,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 <p alling-itens=Center>
 
 ☁ **Cloud Providers**
-<p>
+<p align="center" style="display: inline_block"><br>
  <img width="100" height="100" alt="AWS" src="https://github.com/user-attachments/assets/78068f42-17bd-4b4f-b3a9-f35e46e027ef" />
 
  <img width="100" height="100" alt="GCP" src="https://github.com/user-attachments/assets/6444d495-f9ce-4aee-b4bd-e0c49ec44c6a" />
@@ -35,7 +35,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 </p>
 
 ⚙ **Infraestrutura como Código (IaC) & Automação**
-<p>
+<p align="center" style="display: inline_block"><br>
  <img width="100" height="100" alt="iTerraform" src="https://github.com/user-attachments/assets/9c064569-3faa-4b95-8dd8-6646692cd737" />
 
  <img width="100" height="100" alt="Ansible" src="https://github.com/user-attachments/assets/73dbb875-9080-4f98-ba13-f5531e8132b6" />
@@ -44,7 +44,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 </p>
 
 🐋 **Containers & Orquestração**
-<p>
+<p align="center" style="display: inline_block"><br>
  <img width="100" height="100" alt="Docker" src="https://github.com/user-attachments/assets/d58aaa08-a049-439e-8acf-d78f63dcbac2" />
 
   <img width="100" height="100" alt="iKubernetes" src="https://github.com/user-attachments/assets/2a117ff4-1627-479b-acbb-0a84d3dc5ee6" />
@@ -52,7 +52,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 </p>
 
 ♾ **CI/CD**
-<p>
+<p align="center" style="display: inline_block"><br>
  <img width="100" height="100" alt="githubActions" src="https://github.com/user-attachments/assets/898e2124-c7ca-42f3-9b75-eaf6bcbc7bd8" />
  <img width="100" height="100" alt="ArgoCD" src="https://github.com/user-attachments/assets/dd87ec77-5b3f-4669-a9d4-edf713cd84fe" />
 
@@ -60,14 +60,14 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
   </p>
 
 🖥 **Sistemas Operacionais:**
-<p>
+<p align="center" style="display: inline_block"><br>
 <img width="100" height="100" alt="Linux" src="https://github.com/user-attachments/assets/1795e9d0-c96d-495e-b075-1ed3e8050a48" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7a4947dc-1910-4a82-82e5-534a6f34ca38" />
 
  </p>
 
 < > **Scrips**
- <p>
+ <p align="center" style="display: inline_block"><br>
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7bb447a2-f4c9-4465-bb88-852355e44f4a" />
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6631768f-be12-48a2-ae1f-5221d475b293" />
 </p>
