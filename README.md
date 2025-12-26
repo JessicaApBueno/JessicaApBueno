@@ -59,7 +59,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
   </p>
 
-🖥 **Sistema Operacionais:**
+🖥 **Sistemas Operacionais:**
 <p>
 <img width="100" height="100" alt="Linux" src="https://github.com/user-attachments/assets/1795e9d0-c96d-495e-b075-1ed3e8050a48" />
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7a4947dc-1910-4a82-82e5-534a6f34ca38" />
