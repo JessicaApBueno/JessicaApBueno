@@ -158,6 +158,9 @@ Fluxo completo de IaC para provisionar uma VM no Google Cloud e configurá-la au
 
 [![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/JessicaApBueno/IACcomTerraformAndGCP)
 
+<hr>
+
+<div align="center" style="display: inline_block"><br>
 
 ### 📬 Entre em Contato
 
@@ -168,5 +171,5 @@ Fluxo completo de IaC para provisionar uma VM no Google Cloud e configurá-la au
   <a href="mailto:buenojessicaaparecida@gmail.com" target="_blank">
    <img width="50" height="50" alt="Gmail" src="https://github.com/user-attachments/assets/e63ac3fa-142f-448a-ae52-94f6f939cdd1" />
 
-
+</div>
 
