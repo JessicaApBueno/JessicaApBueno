@@ -82,7 +82,82 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 <a href="https://www.credly.com/badges/411c9b65-a490-4de6-86af-507953b271e5/public_url"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/110x110/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" /></a>
 <a href="https://www.credly.com/badges/296c9b48-0f91-48bc-a37f-eab25362229a"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" /></a>
 <br>
+</div>
 <hr>
+
+### 🌟 Projetos em Destaque
+
+Nesta seção, compartilho projetos práticos que desenvolvi para consolidar conhecimentos em Cloud Computing, IaC e práticas DevOps.
+
+---
+
+#### 🛠️ Automação & Serverless (AWS)
+
+**Processador Automático de CSV para JSON**
+Implementação de um pipeline de dados serverless (ETL). Utiliza Lambda para monitorar um bucket S3, convertendo automaticamente arquivos `.csv` para `.json` assim que são enviados.
+* **Tech Stack:** `AWS Lambda`, `S3`, `AWS SAM (IaC)`
+* **Conceitos:** Event-driven architecture, Serverless, DevOps.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-232F3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JessicaApBueno/Processador-Autom-tico-de-CSV-para-JSON-AWS-Lambda-S3-)
+
+---
+
+**Notificações de Eventos S3 com SNS e SQS**
+Monitoramento de eventos de upload e exclusão em buckets S3, integrando notificações por e-mail e registro de logs assíncronos.
+* **Tech Stack:** `AWS CLI`, `S3`, `SNS`, `SQS`
+* **Objetivo:** Auditoria de eventos e notificações em tempo real.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-232F3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JessicaApBueno/LAB1-EDN-S3-SNS-SQS)
+
+---
+
+#### 🏗️ Infraestrutura como Código (IaC)
+
+**Monitoramento e Auditoria AWS com Terraform**
+Automação de um ambiente focado em observabilidade, provisionando instâncias EC2 com alarmes de CPU e logs criptografados via CloudTrail.
+* **Tech Stack:** `Terraform`, `AWS CloudWatch`, `AWS CloudTrail`
+* **Destaque:** Foco em segurança e monitoramento proativo.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/aws-cloudwatch-cloudtrail-lab)
+
+---
+
+**Infraestrutura Web Escalável (CloudFormation)**
+Provisionamento de uma arquitetura de alta disponibilidade utilizando Application Load Balancer (ALB) e Auto Scaling Group (ASG).
+* **Tech Stack:** `AWS CloudFormation`, `ALB`, `ASG`, `EC2`
+* **Conceitos:** Escalabilidade horizontal, IaC.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/JessicaApBueno/lab-alb-cloudformation)
+
+---
+
+**Laboratório AWS: EC2, EBS e Snapshots**
+Automação de um servidor web com gestão de volumes EBS e configuração de backups automáticos (snapshots).
+* **Tech Stack:** `CloudFormation`, `EC2`, `EBS`
+* **Foco:** Persistência de dados e recuperação de desastres.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/JessicaApBueno/LabEC2-EBS)
+
+---
+
+#### 🐳 Containers & Multi-Cloud
+
+**Gerador de Saudações (Docker Compose)**
+Orquestração de uma aplicação de três camadas (Frontend + 2 Microsserviços) com comunicação interna via Proxy Reverso (NGINX).
+* **Tech Stack:** `Docker`, `Docker Compose`, `NGINX`
+* **Destaque:** Publicação de imagens customizadas no Docker Hub.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/JessicaApBueno/desafio-microsservicos-docker)
+
+---
+
+**Deploy de Site Estático (GCP + Ansible)**
+Fluxo completo de IaC para provisionar uma VM no Google Cloud e configurá-la automaticamente como servidor web.
+* **Tech Stack:** `Terraform`, `Google Cloud (GCP)`, `Ansible`
+* **Destaque:** Provisionamento e gerenciamento de configuração em nuvem.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/JessicaApBueno/IACcomTerraformAndGCP)
+
 
 ### 📬 Entre em Contato
 
