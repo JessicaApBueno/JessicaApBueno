@@ -66,7 +66,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
  </p>
 
-< > **Scrips**
+< > **Scripts**
  <p align="center" style="display: inline_block"><br>
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7bb447a2-f4c9-4465-bb88-852355e44f4a" />
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/6631768f-be12-48a2-ae1f-5221d475b293" />
