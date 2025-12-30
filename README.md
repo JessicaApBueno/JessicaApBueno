@@ -90,7 +90,16 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 Nesta seção, compartilho projetos práticos que desenvolvi para consolidar conhecimentos em Cloud Computing, IaC e práticas DevOps.
 
 ---
+#### 🎡 CI/CD & Kubernetes
 
+**Baleia GitOps - CI Pipeline com Argo Workflows**
+Desenvolvimento de um pipeline de CI nativo de container rodando em Kubernetes local (Kind). O fluxo inclui download otimizado de código, versionamento dinâmico e build de imagens Go utilizando Kaniko.
+* **Tech Stack:** `Kubernetes (Kind)`, `Argo Workflows`, `Kaniko`, `Docker Hub`
+* **Destaque:** Implementação de build seguro dentro do cluster (sem Docker-in-Docker) e versionamento automático (YYYYMMDD-HHMMSS).
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/JessicaApBueno/baleia-gitops)
+
+---
 #### 🛠️ Automação & Serverless (AWS)
 
 **Processador Automático de CSV para JSON**
