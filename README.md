@@ -99,7 +99,7 @@ Desenvolvimento de uma infraestrutura segura em nuvem simulada localmente para t
 * **Destaque:** Implementação de esteira DevSecOps com 3 estágios (Lint, Security Scan e Plan), garantindo a aplicação de criptografia AES256 e bloqueio de acesso público através de módulos reutilizáveis.
 
 [![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/localstack-terraform-lab)
-
+[ ![Ler Artigo no Medium](https://img.shields.io/badge/Ler_Artigo_no_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ](https://medium.com/@buenojessicaaparecida/d726d99bccbd)
 ---
 
 #### 🎡 CI/CD & Kubernetes
