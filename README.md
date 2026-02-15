@@ -90,6 +90,18 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 Nesta seção, compartilho projetos práticos que desenvolvi para consolidar conhecimentos em Cloud Computing, IaC e práticas DevOps.
 
 ---
+#### ☁️ Cloud & DevSecOps
+
+**S3 DevSecOps Lab - Terraform & LocalStack**
+Desenvolvimento de uma infraestrutura segura em nuvem simulada localmente para testes de custo zero. O projeto implementa um fluxo de trabalho profissional de IaC com uma esteira de CI/CD que realiza validações automáticas de qualidade e segurança antes de qualquer simulação de recurso.
+
+* **Tech Stack:** `Terraform`, `LocalStack`, `GitHub Actions`, `tfsec`, `AWS (S3)`.
+* **Destaque:** Implementação de esteira DevSecOps com 3 estágios (Lint, Security Scan e Plan), garantindo a aplicação de criptografia AES256 e bloqueio de acesso público através de módulos reutilizáveis.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/localstack-terraform-lab)
+
+---
+
 #### 🎡 CI/CD & Kubernetes
 
 **Baleia GitOps - CI Pipeline com Argo Workflows**
