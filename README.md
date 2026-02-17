@@ -19,7 +19,8 @@ Minha paixão é criar, automatizar e otimizar infraestruturas escaláveis e res
 
 ---
 
-### 🚀 Meu Ecossistema de DevOps & Cloud
+
+<hr>### 🚀 Meu Ecossistema de DevOps & Cloud
 
 Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
@@ -57,15 +58,6 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
  <img width="100" height="100" alt="ArgoCD" src="https://github.com/user-attachments/assets/dd87ec77-5b3f-4669-a9d4-edf713cd84fe" />
 
 
-  </p>
-
-🖥 **Sistemas Operacionais:**
-<p align="center" style="display: inline_block"><br>
-<img width="100" height="100" alt="Linux" src="https://github.com/user-attachments/assets/1795e9d0-c96d-495e-b075-1ed3e8050a48" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7a4947dc-1910-4a82-82e5-534a6f34ca38" />
-
- </p>
-
 🧩 **Scripts & Linguagens**
  <p align="center" style="display: inline_block"><br>
  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7bb447a2-f4c9-4465-bb88-852355e44f4a" />
@@ -87,110 +79,56 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
 ### 🌟 Projetos em Destaque
 
-Nesta seção, compartilho projetos práticos que desenvolvi para consolidar conhecimentos em Cloud Computing, IaC e práticas DevOps.
+#### 🏗️ Infraestrutura como Código & LocalStack
+**EC2 Cloud Engineering Lab - Terraform Variables**
+Foco na eliminação de *hardcoding* e modularização avançada. Provisionamento de servidor web em ambiente AWS simulado (LocalStack) com foco em flexibilidade e segurança.
+* **Tech Stack:** `Terraform`, `LocalStack`, `GitHub Actions`, `EC2/VPC`.
+* **Destaque:** Arquitetura desacoplada e esteira CI/CD com custo zero.
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/projeto-ec2-localstack)
+[![Ler Artigo](https://img.shields.io/badge/Ler_Artigo-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@buenojessicaaparecida/terraform-variables-flexibilidade-e-seguran%C3%A7a-no-provisionamento-de-infraestrutura-d4f6de690c1c)
 
 ---
-#### ☁️ Cloud & DevSecOps
 
+#### 🛡️ DevSecOps & Cloud Security
 **S3 DevSecOps Lab - Terraform & LocalStack**
-Desenvolvimento de uma infraestrutura segura em nuvem simulada localmente para testes de custo zero. O projeto implementa um fluxo de trabalho profissional de IaC com uma esteira de CI/CD que realiza validações automáticas de qualidade e segurança antes de qualquer simulação de recurso.
-
-* **Tech Stack:** `Terraform`, `LocalStack`, `GitHub Actions`, `tfsec`, `AWS (S3)`.
-* **Destaque:** Implementação de esteira DevSecOps com 3 estágios (Lint, Security Scan e Plan), garantindo a aplicação de criptografia AES256 e bloqueio de acesso público através de módulos reutilizáveis.
+Implementação de esteira DevSecOps com 3 estágios (Lint, Security Scan e Plan).
+* **Tech Stack:** `Terraform`, `LocalStack`, `GitHub Actions`, `tfsec`.
+* **Destaque:** Aplicação automática de criptografia AES256 e bloqueio de acesso público via módulos reutilizáveis.
 
 [![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/localstack-terraform-lab)
-[ ![Ler Artigo no Medium](https://img.shields.io/badge/Ler_Artigo_no_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ](https://medium.com/@buenojessicaaparecida/d726d99bccbd)
+[![Ler Artigo](https://img.shields.io/badge/Ler_Artigo-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@buenojessicaaparecida/d726d99bccbd)
+
 ---
 
 #### 🎡 CI/CD & Kubernetes
-
 **Baleia GitOps - CI Pipeline com Argo Workflows**
-Desenvolvimento de um pipeline de CI nativo de container rodando em Kubernetes local (Kind). O fluxo inclui download otimizado de código, versionamento dinâmico e build de imagens Go utilizando Kaniko.
-* **Tech Stack:** `Kubernetes (Kind)`, `Argo Workflows`, `Kaniko`, `Docker Hub`
-* **Destaque:** Implementação de build seguro dentro do cluster (sem Docker-in-Docker) e versionamento automático (YYYYMMDD-HHMMSS).
+Pipeline de CI nativo de container rodando em cluster Kubernetes (Kind). 
+* **Tech Stack:** `Kubernetes`, `Argo Workflows`, `Kaniko`, `Docker Hub`.
+* **Destaque:** Build seguro (sem Docker-in-Docker) e versionamento dinâmico de imagens Go.
 
 [![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/JessicaApBueno/baleia-gitops)
 
 ---
-#### 🛠️ Automação & Serverless (AWS)
 
-**Processador Automático de CSV para JSON**
-Implementação de um pipeline de dados serverless (ETL). Utiliza Lambda para monitorar um bucket S3, convertendo automaticamente arquivos `.csv` para `.json` assim que são enviados.
-* **Tech Stack:** `AWS Lambda`, `S3`, `AWS SAM (IaC)`
-* **Conceitos:** Event-driven architecture, Serverless, DevOps.
-
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-232F3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JessicaApBueno/Processador-Autom-tico-de-CSV-para-JSON-AWS-Lambda-S3-)
-
----
-
-**Notificações de Eventos S3 com SNS e SQS**
-Monitoramento de eventos de upload e exclusão em buckets S3, integrando notificações por e-mail e registro de logs assíncronos.
-* **Tech Stack:** `AWS CLI`, `S3`, `SNS`, `SQS`
-* **Objetivo:** Auditoria de eventos e notificações em tempo real.
-
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-232F3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JessicaApBueno/LAB1-EDN-S3-SNS-SQS)
-
----
-
-#### 🏗️ Infraestrutura como Código (IaC)
-
-**Monitoramento e Auditoria AWS com Terraform**
-Automação de um ambiente focado em observabilidade, provisionando instâncias EC2 com alarmes de CPU e logs criptografados via CloudTrail.
-* **Tech Stack:** `Terraform`, `AWS CloudWatch`, `AWS CloudTrail`
-* **Destaque:** Foco em segurança e monitoramento proativo.
-
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/aws-cloudwatch-cloudtrail-lab)
-
----
-
-**Infraestrutura Web Escalável (CloudFormation)**
-Provisionamento de uma arquitetura de alta disponibilidade utilizando Application Load Balancer (ALB) e Auto Scaling Group (ASG).
-* **Tech Stack:** `AWS CloudFormation`, `ALB`, `ASG`, `EC2`
-* **Conceitos:** Escalabilidade horizontal, IaC.
-
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/JessicaApBueno/lab-alb-cloudformation)
-
----
-
-**Laboratório AWS: EC2, EBS e Snapshots**
-Automação de um servidor web com gestão de volumes EBS e configuração de backups automáticos (snapshots).
-* **Tech Stack:** `CloudFormation`, `EC2`, `EBS`
-* **Foco:** Persistência de dados e recuperação de desastres.
-
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/JessicaApBueno/LabEC2-EBS)
-
----
-
-#### 🐳 Containers & Multi-Cloud
-
-**Gerador de Saudações (Docker Compose)**
-Orquestração de uma aplicação de três camadas (Frontend + 2 Microsserviços) com comunicação interna via Proxy Reverso (NGINX).
-* **Tech Stack:** `Docker`, `Docker Compose`, `NGINX`
-* **Destaque:** Publicação de imagens customizadas no Docker Hub.
-
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/JessicaApBueno/desafio-microsservicos-docker)
-
----
-
-**Deploy de Site Estático (GCP + Ansible)**
-Fluxo completo de IaC para provisionar uma VM no Google Cloud e configurá-la automaticamente como servidor web.
-* **Tech Stack:** `Terraform`, `Google Cloud (GCP)`, `Ansible`
-* **Destaque:** Provisionamento e gerenciamento de configuração em nuvem.
+#### 🌍 Multi-Cloud & Configuration Management
+**Deploy de Site Estático - GCP + Ansible**
+Fluxo completo de IaC para provisionar recursos no Google Cloud e gerenciamento de configuração automática.
+* **Tech Stack:** `Terraform`, `Google Cloud (GCP)`, `Ansible`.
+* **Destaque:** Integração entre provisionamento (Terraform) e configuração de software (Ansible).
 
 [![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/JessicaApBueno/IACcomTerraformAndGCP)
 
-<hr>
-
-<div align="center" style="display: inline_block"><br>
+---
 
 ### 📬 Entre em Contato
 
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/jessica-ap-bueno/" target="_blank">
-    <img width="50" height="50" alt="Linkedin" src="https://github.com/user-attachments/assets/a646a371-9686-418e-997b-2a21f6ea3fd3" />
+    <img width="40" height="40" alt="Linkedin" src="https://github.com/user-attachments/assets/a646a371-9686-418e-997b-2a21f6ea3fd3" />
   </a>
   <a href="mailto:buenojessicaaparecida@gmail.com" target="_blank">
-   <img width="50" height="50" alt="Gmail" src="https://github.com/user-attachments/assets/e63ac3fa-142f-448a-ae52-94f6f939cdd1" />
-
+    <img width="40" height="40" alt="Gmail" src="https://github.com/user-attachments/assets/e63ac3fa-142f-448a-ae52-94f6f939cdd1" />
+  </a>
 </div>
 
