@@ -79,6 +79,22 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
 ### 🌟 Projetos em Destaque
 
+#### 🌐 Vah MaNa - Portfolio Cloud Native
+
+Um portfólio que une propósito geracional à alta engenharia. Homenagem a três gerações de mulheres (Vanusa, Maria Terezinha e Natasha), implementado com as melhores práticas de segurança e automação em nuvem.
+* **Tech Stack:** `GCP Cloud Run`, `Docker`, `GitHub Actions`.
+* **Destaque:** Autenticação moderna via **Workload Identity Federation (Keyless)** para uma conexão segura entre GitHub e GCP.
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![OIDC](https://img.shields.io/badge/Security-OIDC-800080?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+[![Ver Repositório](https://img.shields.io/badge/Acessar_Portfólio-800080?style=for-the-badge&logo=google-cloud&logoColor=white)](https://portfolio-site-73809992151.us-central1.run.app/index.html)
+[![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JessicaApBueno/new-portfolio)
+
+---
+
 #### 🏗️ Infraestrutura como Código & LocalStack
 **EC2 Cloud Engineering Lab - Terraform Variables**
 Foco na eliminação de *hardcoding* e modularização avançada. Provisionamento de servidor web em ambiente AWS simulado (LocalStack) com foco em flexibilidade e segurança.
