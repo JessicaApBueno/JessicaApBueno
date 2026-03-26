@@ -13,7 +13,7 @@ Minha paixão é criar, automatizar e otimizar infraestruturas escaláveis e res
   </p>
 </h4>
 
-* 🔭 Atualmente estou estudando para a AWS Certified Solutions Architect — Associate e a Cloud Engineer Associate do GCP
+* 🔭 Atualmente estou estudando para a AWS Certified Solutions Architect — Associate
 * 🌱 Aprendendo mais sobre Linux, Python, Docker, Kubernetes, Terraform, Ansible e CI/CD.
 * 💬 Fique à vontade para me contatar sobre oportunidades ou para trocar ideias sobre Cloud e DevOps!
 
@@ -80,17 +80,11 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 ### 🌟 Projetos em Destaque
 
 #### 🌐 Vah MaNa - Portfolio Cloud Native
-
 Um portfólio que une propósito geracional à alta engenharia. Homenagem a três gerações de mulheres (Vanusa, Maria Terezinha e Natasha), implementado com as melhores práticas de segurança e automação em nuvem.
 * **Tech Stack:** `GCP Cloud Run`, `Docker`, `GitHub Actions`.
 * **Destaque:** Autenticação moderna via **Workload Identity Federation (Keyless)** para uma conexão segura entre GitHub e GCP.
 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![OIDC](https://img.shields.io/badge/Security-OIDC-800080?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Portfólio-800080?style=for-the-badge&logo=google-cloud&logoColor=white)](https://portfolio-site-73809992151.us-central1.run.app/index.html)
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar_Portfólio-800080?style=for-the-badge&logo=google-cloud&logoColor=white)](https://portfolio-site-73809992151.us-central1.run.app/index.html)
 [![Ver Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JessicaApBueno/new-portfolio)
 
 ---
@@ -101,7 +95,7 @@ Foco na eliminação de *hardcoding* e modularização avançada. Provisionament
 * **Tech Stack:** `Terraform`, `LocalStack`, `GitHub Actions`, `EC2/VPC`.
 * **Destaque:** Arquitetura desacoplada e esteira CI/CD com custo zero.
 
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/projeto-ec2-localstack)
+[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/projeto-ec2-localstack)
 [![Ler Artigo](https://img.shields.io/badge/Ler_Artigo-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@buenojessicaaparecida/terraform-variables-flexibilidade-e-seguran%C3%A7a-no-provisionamento-de-infraestrutura-d4f6de690c1c)
 
 ---
@@ -112,7 +106,7 @@ Implementação de esteira DevSecOps com 3 estágios (Lint, Security Scan e Plan
 * **Tech Stack:** `Terraform`, `LocalStack`, `GitHub Actions`, `tfsec`.
 * **Destaque:** Aplicação automática de criptografia AES256 e bloqueio de acesso público via módulos reutilizáveis.
 
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/localstack-terraform-lab)
+[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/JessicaApBueno/localstack-terraform-lab)
 [![Ler Artigo](https://img.shields.io/badge/Ler_Artigo-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@buenojessicaaparecida/d726d99bccbd)
 
 ---
@@ -123,7 +117,7 @@ Pipeline de CI nativo de container rodando em cluster Kubernetes (Kind).
 * **Tech Stack:** `Kubernetes`, `Argo Workflows`, `Kaniko`, `Docker Hub`.
 * **Destaque:** Build seguro (sem Docker-in-Docker) e versionamento dinâmico de imagens Go.
 
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/JessicaApBueno/baleia-gitops)
+[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/JessicaApBueno/baleia-gitops)
 
 ---
 
@@ -133,18 +127,19 @@ Fluxo completo de IaC para provisionar recursos no Google Cloud e gerenciamento 
 * **Tech Stack:** `Terraform`, `Google Cloud (GCP)`, `Ansible`.
 * **Destaque:** Integração entre provisionamento (Terraform) e configuração de software (Ansible).
 
-[![Ver Repositório](https://img.shields.io/badge/Acessar_Projeto-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/JessicaApBueno/IACcomTerraformAndGCP)
+[![Acessar Projeto](https://img.shields.io/badge/Acessar_Projeto-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/JessicaApBueno/IACcomTerraformAndGCP)
 
----
+<hr>
+
 
 ### 📬 Entre em Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jessica-ap-bueno/" target="_blank">
-    <img width="40" height="40" alt="Linkedin" src="https://github.com/user-attachments/assets/a646a371-9686-418e-997b-2a21f6ea3fd3" />
+    <img width="40" height="40" alt="Linkedin" src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" />
   </a>
   <a href="mailto:buenojessicaaparecida@gmail.com" target="_blank">
-    <img width="40" height="40" alt="Gmail" src="https://github.com/user-attachments/assets/e63ac3fa-142f-448a-ae52-94f6f939cdd1" />
+    <img width="40" height="40" alt="Gmail" src="https://img.icons8.com/?size=100&id=48165&format=png&color=000000" />
   </a>
 </div>
 
