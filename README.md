@@ -25,7 +25,7 @@ Minha paixão é criar, automatizar e otimizar infraestruturas escaláveis e res
 Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
 
-<p alling-itens=Center>
+<p>
 
 ☁ **Cloud Providers**
 <p align="center" style="display: inline_block"><br>
@@ -72,6 +72,7 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 <div align="center" style="display: inline_block"><br>
 <a href="https://www.credly.com/badges/934d858c-490d-4419-9f7b-24b988b233c2/public_url"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
 <a href="https://www.credly.com/badges/dc727647-0834-4d29-8816-f6e1b498f7fa/public_url"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" /></a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=95F09811BDD96E3E2B7C496B76315F68F19EFF9DE4BA2C32304F8D7D07706D38"> <img align="center" alt="HTML" height="200" width="300" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" /></a>
 
 <br>
 </div>
