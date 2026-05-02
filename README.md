@@ -80,6 +80,21 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
 ### 🌟 Projetos em Destaque
 
+### 🚀 Featured Project: FinOps Hands-On — AWS Costs + $CO_2e$ in Every PR
+Este projeto demonstra a implementação de uma cultura **Shift-Left FinOps**, automatizando a visibilidade de custos e impacto ambiental diretamente no fluxo de Pull Request. Utilizando **Terraform** e **Infracost**, o pipeline fornece feedbacks financeiros e de sustentabilidade antes mesmo do deploy.
+
+*   **Destaque Técnico:** Autenticação segura via **AWS OIDC (Workload Identity Federation)**, eliminando chaves estáticas.
+*   **Foco:** Otimização de custos, governança e automação de infraestrutura escalável.
+
+#### 📝 Leia os artigos e explore o código:
+
+[![AWS Builders](https://img.shields.io/badge/AWS_Builders-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://lnkd.in/dbeKe_P2)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devto&logoColor=white)](https://lnkd.in/dZ-FjDbG)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://lnkd.in/di7w23J3)
+[![GitHub](https://img.shields.io/badge/Repo_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://lnkd.in/dPixjTiE)
+
+---
+
 #### 🌐 Vah MaNa - Portfolio Cloud Native
 Um portfólio que une propósito geracional à alta engenharia. Homenagem a três gerações de mulheres (Vanusa, Maria Terezinha e Natasha), implementado com as melhores práticas de segurança e automação em nuvem.
 * **Tech Stack:** `GCP Cloud Run`, `Docker`, `GitHub Actions`.
