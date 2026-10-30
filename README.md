@@ -33,6 +33,11 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
  <img width="100" height="100" alt="GCP" src="https://github.com/user-attachments/assets/6444d495-f9ce-4aee-b4bd-e0c49ec44c6a" />
 
+  <img width="120" height="100" alt="Azure" src="https://arnav.au/wp-content/uploads/2023/11/Microsoft-Azure-Logo-2017-1024x576.png" />
+ 
+  <img width="130" height="100" alt="OCI" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*SjVpy1jDKZILAiDlSyWUoA.jpeg" />
+  
+
 </p>
 
 ⚙ **Infraestrutura como Código (IaC) & Automação**
