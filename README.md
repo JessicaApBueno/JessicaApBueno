@@ -69,13 +69,32 @@ Aqui estão as principais tecnologias com as quais tenho trabalhado:
 
 ### 🏆 Certificações
 
-<div align="center" style="display: inline_block"><br>
-<a href="https://www.credly.com/badges/934d858c-490d-4419-9f7b-24b988b233c2/public_url"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
-<a href="https://www.credly.com/badges/dc727647-0834-4d29-8816-f6e1b498f7fa/public_url"> <img align="center" alt="HTML" height="200" width="200" src="https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" /></a>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=95F09811BDD96E3E2B7C496B76315F68F19EFF9DE4BA2C32304F8D7D07706D38"> <img align="center" alt="HTML" height="200" width="300" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25FNDCFAV1.png" /></a>
-
-<br>
-</div>
+   <div style="margin-top: 10px; white-space: nowrap; font-size: 0;">
+        <!-- 1. Google Cloud Professional Cloud Architect (PRIMEIRA) -->
+        <a href="https://www.credly.com/badges/64f80e6c-ea6e-47fe-b7d4-909f13c33ddb/public_url" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 5px;">
+          <img src="https://images.credly.com/size/110x110/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="100" height="100" title="Professional Cloud Architect Certification" alt="Professional Cloud Architect Certification" style="border: none; display: block;">
+        </a>
+        <!-- 2. Google Cloud Associate Cloud Engineer -->
+        <a href="https://www.credly.com/badges/dc727647-0834-4d29-8816-f6e1b498f7fa/public_url" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 5px;">
+          <img src="https://raw.githubusercontent.com/JessicaApBueno/JessicaApBueno/main/Cloud%20engineer.png" width="100" height="100" title="Google Cloud Associate Cloud Engineer" alt="Google Cloud Associate Cloud Engineer" style="border: none; display: block;">
+        </a>
+        <!-- 3. Google Workspace Administrator Certification -->
+        <a href="https://www.credly.com/badges/7d6d7a2a-e3f1-4d44-b0aa-fafbb1f2a11c/public_url" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 5px;">
+          <img src="https://raw.githubusercontent.com/JessicaApBueno/nova-assinatura/main/Workspace.png" width="100" height="100" title="Google Cloud Workspace Administrator Certification" alt="Google Cloud Workspace Administrator Certification" style="border: none; display: block;">
+        </a>
+        <!-- 4. AWS Certified Cloud Practitioner -->
+        <a href="https://www.credly.com/badges/934d858c-490d-4419-9f7b-24b988b233c2/public_url" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 5px;">
+          <img src="https://raw.githubusercontent.com/JessicaApBueno/JessicaApBueno/main/pratictioner.png" width="100" height="100" title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" style="border: none; display: block;">
+        </a>
+        <!-- 5. Microsoft Certified: Conceitos básicos do Azure (APÓS AWS) -->
+        <a href="https://learn.microsoft.com/pt-br/users/jessicabueno-8280/credentials/f6ae574cba5ad801?ref=https%3A%2F%2Fwww.credly.com%2F" target="_blank" style="text-decoration: none; display: inline-block; margin-right: 5px;">
+          <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="100" height="100" title="Microsoft Certified: Conceitos básicos do Azure" alt="Microsoft Certified: Conceitos básicos do Azure" style="border: none; display: block;">
+        </a>
+        <!-- 6. OCI Foundations -->
+        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=95F09811BDD96E3E2B7C496B76315F68F19EFF9DE4BA2C32304F8D7D07706D38" target="_blank" style="text-decoration: none; display: inline-block;">
+          <img src="https://raw.githubusercontent.com/JessicaApBueno/nova-assinatura/main/OCI.png" width="100" height="100" title="OCI foundations" alt="OCI foundations" style="border: none; display: block;">
+        </a>
+      </div>
 <hr>
 
 ### 🌟 Projetos em Destaque
